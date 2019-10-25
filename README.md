@@ -1,7 +1,7 @@
 # Simple-Tweet-Sentiment-Analyzer
-Author: Xavier Puspus 
-Organization: For the Women Foundation 
-Data Agency: Zero Six Research 
+**Author**: Xavier Puspus  
+**Organization**: For the Women Foundation  
+**Data Agency**: Zero Six Research  
 
 # Description
 
