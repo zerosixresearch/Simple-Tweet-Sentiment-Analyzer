@@ -39,4 +39,4 @@ foo@bar:~$ streamlit run tweet_analyzer_app.py
 
 The web app should look something like this:
 
-![Sample image of the tweet sentiment analyzer web application.](sample_image.png)
+![Sample image of the tweet sentiment analyzer web application.](sample_display.png)
