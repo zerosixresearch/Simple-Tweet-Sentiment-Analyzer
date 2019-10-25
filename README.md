@@ -26,3 +26,17 @@ For this example, we use a simple tweet analyzer by pulling live tweets using `t
 "ACCESS_TOKEN_SECRET" : "someaccesstokensecret"
 }
 ```
+
+# Local Hosting
+
+In order to host the web app locally (in your computer), fork this repository into your computer, `cd` into the repo's directory, open a terminal and run:
+
+```console
+foo@bar:~$ streamlit run tweet_analyzer_app.py
+```
+
+# Display
+
+The web app should look something like this:
+
+![Sample image of the tweet sentiment analyzer web application.](sample_image.png)
